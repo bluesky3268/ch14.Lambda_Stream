@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LamdaEx4 {
+public class LambdaEx4 {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         for (int i = 0; i < 10; i++)

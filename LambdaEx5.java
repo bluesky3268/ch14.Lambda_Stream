@@ -5,7 +5,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 
-public class LamdaEx5 {
+public class LambdaEx5 {
     public static void main(String[] args) {
         Supplier<Integer> s = () -> (int) (Math.random() * 100) + 1;
         Consumer<Integer> c = i -> System.out.print(i + ", ");
